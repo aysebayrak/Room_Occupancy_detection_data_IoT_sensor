@@ -1,1 +1,0 @@
-# Room-Occupancy-detection-data-IoT-sensor-
